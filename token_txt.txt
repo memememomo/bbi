@@ -1,0 +1,6 @@
+if dt<=100
+  dt = (a+200) * b
+else
+  dt = 300
+end
+print "dt=", dt
